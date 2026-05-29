@@ -364,6 +364,9 @@
   .w-\[200px\] {
     width: 200px;
   }
+  .w-\[240px\] {
+    width: 240px;
+  }
   .w-\[250px\] {
     width: 250px;
   }
@@ -715,6 +718,9 @@
   .bg-\[orangered\] {
     background-color: orangered;
   }
+  .bg-\[otangered\] {
+    background-color: otangered;
+  }
   .bg-\[white\] {
     background-color: white;
   }
@@ -774,6 +780,9 @@
   }
   .p-\[30px\] {
     padding: 30px;
+  }
+  .p-\[50px\] {
+    padding: 50px;
   }
   .px-4 {
     padding-inline: calc(var(--spacing) * 4);
