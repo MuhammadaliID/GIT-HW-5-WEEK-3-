@@ -246,6 +246,9 @@
   .mt-\[70px\] {
     margin-top: 70px;
   }
+  .mt-\[80px\] {
+    margin-top: 80px;
+  }
   .mt-\[100px\] {
     margin-top: 100px;
   }
@@ -278,6 +281,12 @@
   }
   .w-\[15px\] {
     width: 15px;
+  }
+  .w-\[40\%\] {
+    width: 40%;
+  }
+  .w-\[50\%\] {
+    width: 50%;
   }
   .w-\[100px\] {
     width: 100px;
@@ -574,6 +583,9 @@
   .bg-\[orangered\] {
     background-color: orangered;
   }
+  .bg-\[white\] {
+    background-color: white;
+  }
   .bg-\[yellow\] {
     background-color: yellow;
   }
@@ -733,6 +745,9 @@
   .text-\[datorange\] {
     color: datorange;
   }
+  .text-\[ga\] {
+    color: ga;
+  }
   .text-\[gary\] {
     color: gary;
   }
@@ -849,6 +864,11 @@
   .sm\:h-\[500px\] {
     @media (width >= 40rem) {
       height: 500px;
+    }
+  }
+  .sm\:w-\[50\%\] {
+    @media (width >= 40rem) {
+      width: 50%;
     }
   }
   .sm\:w-\[300px\] {
